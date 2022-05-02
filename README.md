@@ -8,3 +8,7 @@ $ git clone https://github.com/hsouna/marketplace_scrapper.git
 
 ### Run the project
 README files are provided in each folder to help in running the whole project.
+
+### Demo
+
+![Demo Video](./demo.gif)
