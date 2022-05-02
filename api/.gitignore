@@ -1,0 +1,27 @@
+.git/*
+ .git*
+.mypy_cache
+.pytest_cache
+.vscode
+.coverage
+__pycache__
+.github
+dev
+docs
+.pre-commit-config.yaml
+.releaserc.json
+.pyc
+.pyo
+*.css.map
+*.js.map
+.cache
+env
+config/settings/dev.py
+config/settings/test.py
+Dockerfile
+ansible
+*.sqlite*
+.env
+cookie
+data/*
+base.json
